@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... AWS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:  tcorbett@maine.rr.com
+- 📫 How to reach me:  tcorbett@maine.rr.com or tim.corbett@gmail.com
 
 <!---
 tim-corbett/tim-corbett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
